@@ -5,7 +5,7 @@
 !pip install datasets
 !pip install mpi4py
 
-! git clone https://github.com/louisefz/Diffusion-LM.git
+! git clone https://github.com/Diffusion-LM.git
 
 # Commented out IPython magic to ensure Python compatibility.
 # %cd /content/Diffusion-LM/improved-diffusion
