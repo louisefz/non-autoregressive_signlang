@@ -11,7 +11,7 @@
 from google.colab import drive
 import shutil
 
-!git clone https://github.com/louisefz/diffuseq_sign.git
+!git clone https://github.com/diffuseq_sign.git
 
 drive.mount('/content/drive')
 
